@@ -42,7 +42,7 @@ int Place_Order(table_index_type Table,
 
   /* Add a free dessert in some cases */
   Add_Included_Dessert(&Table_Data.Order[Seat]);
- 
+ 에러
   switch(Order.Entree)
     {
     case NO_ENTREE : 
