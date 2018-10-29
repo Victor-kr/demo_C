@@ -18,7 +18,7 @@ int main()
   int Total;
 
   char line[10];
- 
+에러를 발생시킵니다.
 #if defined (ORDER)
   line[0] = 'P';
 #elif defined (CHECK)
