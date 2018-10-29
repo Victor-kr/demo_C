@@ -18,7 +18,7 @@ int main()
   int Total;
 
   char line[10];
-
+ 
 #if defined (ORDER)
   line[0] = 'P';
 #elif defined (CHECK)
