@@ -18,7 +18,7 @@ int main()
   int Total;
 
   char line[10];
-
+에러발생 삐뽀삐뽀
 #if defined (ORDER)
   line[0] = 'P';
 #elif defined (CHECK)
